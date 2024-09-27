@@ -25,4 +25,3 @@ ___
 - User should not scan targets without permission because it might be considered unethical, instead use your own networks or `scanme.nmap.org` for testing purposes.
 - Anybody can fork this project to their liking.
 - User is not encouraged use this work for any unethical purposes.
-__
